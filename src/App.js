@@ -1,9 +1,10 @@
 import './App.css';
+import Calc from './Calc';
 
 function App() {
   return (
-    <div className="App">
-      
+    <div className='bg-neutral-800'>
+      <Calc />
     </div>
   );
 }
