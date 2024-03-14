@@ -15,3 +15,4 @@ This is a simple calculator web application built using React. It allows users t
 - Backspace
 - Error handling for invalid expressions
 
+![Screenshot (237)](https://github.com/OmPrakashMallik2/Calculater-using-react/assets/147716127/3d7209dd-0435-4ca3-ba68-e18f0db9d8f4)
